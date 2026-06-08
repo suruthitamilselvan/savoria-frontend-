@@ -18,12 +18,12 @@ const MENU = {
   Desserts: [
     { id: 9, name: "Valrhona Chocolate Fondant", price: 1200, cal: 480, img: "https://www.themealdb.com/images/media/meals/xvsurr1511719182.jpg", desc: "Dark 72% molten cake with salted caramel ice cream", veg: true, spicy: false, mood: ["romantic", "cozy"], pairs: "Tiramisu Classico", emoji: "🍫", rating: 4.9, tags: ["Popular"] },
     { id: 10, name: "Tiramisu Classico", price: 950, cal: 390, img: "https://www.themealdb.com/images/media/meals/wvpsxx1468256321.jpg", desc: "House-made with Kahlúa, mascarpone & espresso", veg: true, spicy: false, mood: ["light", "romantic"], pairs: "Valrhona Chocolate Fondant", emoji: "☕", rating: 4.8, tags: [] },
-    { id: 11, name: "Mango Panna Cotta", price: 850, cal: 310, img: "https://www.themealdb.com/images/media/meals/utmvww1516742749.jpg", desc: "Silky coconut panna cotta with alphonso mango", veg: true, spicy: false, mood: ["light"], pairs: "Tiramisu Classico", emoji: "🥭", rating: 4.6, tags: [] },
+    { id: 11, name: "Mango Panna Cotta", price: 850, cal: 310, img: "https://www.themealdb.com/images/media/meals/wvpsxx1468256321.jpg", desc: "Silky coconut panna cotta with alphonso mango", veg: true, spicy: false, mood: ["light"], pairs: "Tiramisu Classico", emoji: "🥭", rating: 4.6, tags: [] },
   ],
   Drinks: [
-    { id: 12, name: "Signature Savoria Sling", price: 1400, cal: 180, img: "https://www.themealdb.com/images/media/meals/qxuqtt1511724269.jpg", desc: "Gin, lychee, elderflower & champagne foam", veg: true, spicy: false, mood: ["romantic", "light"], pairs: "Burrata Bruschetta", emoji: "🍹", rating: 4.8, tags: ["Signature"] },
-    { id: 13, name: "Aged Negroni", price: 1600, cal: 210, img: "https://www.themealdb.com/images/media/meals/llcbn01574260722.jpg", desc: "Barrel-aged campari, sweet vermouth & gin", veg: true, spicy: false, mood: ["bold"], pairs: "Wagyu Beef Tenderloin", emoji: "🍸", rating: 4.9, tags: ["Chef's Pick"] },
-    { id: 14, name: "Virgin Sunset", price: 750, cal: 120, img: "https://www.themealdb.com/images/media/meals/wvpsxx1468256321.jpg", desc: "Passionfruit, blood orange & sparkling water", veg: true, spicy: false, mood: ["light"], pairs: "Mango Panna Cotta", emoji: "🌅", rating: 4.5, tags: [] },
+    { id: 12, name: "Signature Savoria Sling", price: 1400, cal: 180, img: "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/gin-sling-5762501.jpg", desc: "Gin, lychee, elderflower & champagne foam", veg: true, spicy: false, mood: ["romantic", "light"], pairs: "Burrata Bruschetta", emoji: "🍹", rating: 4.8, tags: ["Signature"] },
+    { id: 13, name: "Aged Negroni", price: 1600, cal: 210, img: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Negroni_in_glass.jpg/640px-Negroni_in_glass.jpg", desc: "Barrel-aged campari, sweet vermouth & gin", veg: true, spicy: false, mood: ["bold"], pairs: "Wagyu Beef Tenderloin", emoji: "🍸", rating: 4.9, tags: ["Chef's Pick"] },
+    { id: 14, name: "Virgin Sunset", price: 750, cal: 120, img: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Sunrise_cocktail.jpg/640px-Sunrise_cocktail.jpg", desc: "Passionfruit, blood orange & sparkling water", veg: true, spicy: false, mood: ["light"], pairs: "Mango Panna Cotta", emoji: "🌅", rating: 4.5, tags: [] },
   ],
 };
 
