@@ -128,7 +128,6 @@ export default function Savoria() {
   const text = dark ? "#F0EDE8" : "#1A1A1A";
   const muted = dark ? "#888" : "#666";
   const gold = "#C9A84C";
-  const cream = "#F5E6C8";
 
   const loyalTier = LOYALTY_TIERS.find(t => loyaltyPoints >= t.min && loyaltyPoints <= t.max);
 
